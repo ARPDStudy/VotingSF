@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VotingSF/v16
+/.vs
+/VotingSF/packages/Microsoft.VisualStudio.Azure.Fabric.MSBuild.1.6.10
+/VotingSF/.vs/VotingSF/v16
+/VotingSF/Voting/Voting.sfproj.user
+/VotingSF/VotingWebStateless/bin/Debug/netcoreapp3.1/win7-x64
+/VotingSF/VotingWebStateless/obj
